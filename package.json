@@ -1,0 +1,16 @@
+{
+  "name": "average-groups",
+  "version": "1.0.0",
+  "description": "It is desired to obtain the average of g groups that are in the same school year; being that each group can have n students that each student can take m subjects and that in all subjects three grades are averaged to obtain the average of the subject. What you want to display is the average of the groups, the average of each group and the average of each student.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/average_groups"
+  },
+ 
+  "keywords": ["js","javascript","calculation","grade","average","subject","calculate","group","teachinginstitution","student"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
